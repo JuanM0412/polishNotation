@@ -12,9 +12,9 @@ Practica II: Programacion funcional.
 
 Instrucciones de la practica:
 
-1.Realizar un programa en Haskell que permita utilizar la notación polaca inversa RP con los operadores aritméticos básicos:la suma +, la resta -, la multiplicación * y la divisi�.
+1.Realizar un programa en Haskell que permita utilizar la notacion polaca inversa RPN con los operadores aritmeticos basicos: la suma +, la resta -, la multiplicacionn * y la division /.
 
-2.Realizar una versión modificada de la RP con los siguientes operadores. Nota: tiene que ser compatible con los operadores aritméticos básico
+2.Realizar una version modificada de la RPN con los siguientes operadores. Nota: tiene que ser compatible con los operadores aritmeticos basico
 
 	A. Negacion (neg1): retira el numero de la cima de la pila y lo deuelve negativo. 
 
