@@ -1,8 +1,10 @@
-Integrantes: Juan Manuel Gomez Piedrahita.
+Juan Manuel Gomez Piedrahita.
 
 Materia: Lenguajes de programacion.
 
-Semestre: 2022-II,
+Semestre: 2022-II.
+
+Universidad: EAFIT.
 
 Profesor: Juan David Tamayo Quintero.
 
